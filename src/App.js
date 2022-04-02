@@ -28,7 +28,7 @@ function App() {
   })
 
 
-  // grouped data by concrat values
+  // grouped data by conract values
 
   for (let i = 0; i < 24; i++) {
     groupedData[i] = filteredData.filter((data) => {
